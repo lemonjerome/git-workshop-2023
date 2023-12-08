@@ -6,7 +6,15 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 
 ## Attendees
 
-Gabriel C. Ramos
+- [sfcnls](https://github.com/sfcnls/)
+- [Victor Edwin E Reyes](https://github.com/VeeIsForVanana)
+- [Sidney Lance Cruz Fernando 🤩🙏](https://github.com/slcfernando)
+- [Dale Flores](https://github.com/exos7)
+- Marcus Joaquim D. Pascual
+- [Anton Bolado 🧍‍♂️](https://github.com/boladss)
+- [Mikel Reinan B. Arcardo 🔥](https://github.com/mikelReinanArcardo)
+- [Ellis Caluag](https://github.com/Dox-Dev)
+- [Gabriel C. Ramos] (https://github.com/lemonjerome)
 
 ---
 
